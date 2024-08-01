@@ -7,7 +7,7 @@ public class EmployeeTest {
 		e1.age = 20;
 		e1.showInfo();
 		System.out.println("-----------");
-	
+
 		Employee e2 = new Employee();
 		e2.name = "鈴木";
 		e2.age = 30;

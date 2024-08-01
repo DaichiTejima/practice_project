@@ -5,7 +5,7 @@ public class Circle {
 	public static void main(String[] args) {
 		double num = 5.0;
 		double area = getCircleArea(num);
-		System.out.println("半径：" + num + ".0");
+		System.out.println("半径：" + num);
 		System.out.println("円の面積：" + area);
 	}
 
